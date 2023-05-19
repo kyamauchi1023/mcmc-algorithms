@@ -4,7 +4,7 @@ A repository of MCMC algorithms
 
 ## Installation
 ```
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## Open Jupyter Lab
